@@ -13,4 +13,4 @@ print(nums)
 
 #Go through a list
 for i in nums:
-    print(f"{i} ")
+    print(f"{i}")
