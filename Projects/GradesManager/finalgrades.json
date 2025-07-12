@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Alice",
+        "grade 1": "85",
+        "grade 2": "90",
+        "grade 3": "78",
+        "average": 84.33,
+        "status": "PASS"
+    },
+    {
+        "name": "Bob",
+        "grade 1": "72",
+        "grade 2": "68",
+        "grade 3": "80",
+        "average": 73.33,
+        "status": "PASS"
+    },
+    {
+        "name": "Charlie",
+        "grade 1": "95",
+        "grade 2": "100",
+        "grade 3": "92",
+        "average": 95.67,
+        "status": "PASS"
+    },
+    {
+        "name": "Diana",
+        "grade 1": "50",
+        "grade 2": "60",
+        "grade 3": "55",
+        "average": 55.0,
+        "status": "PASS"
+    },
+    {
+        "name": "Evan",
+        "grade 1": "88",
+        "grade 2": "79",
+        "grade 3": "84",
+        "average": 83.67,
+        "status": "PASS"
+    }
+]
